@@ -8,4 +8,4 @@
 
 Я:
 
-![Я](img/4589ef18313e2d9c5dc918aea036b182.jpg)
+![Я](https://github.com/Egor891/about_me/tree/main/Img)
