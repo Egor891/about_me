@@ -8,4 +8,4 @@
 
 Я:
 
-![Я](https://github.com/Egor891/about_me/tree/main/Img)
+![Я](Img/573002-magicheskaya-bitva-jujutsu-kaisen.png)
